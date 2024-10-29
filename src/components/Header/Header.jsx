@@ -4,7 +4,6 @@ import "./Header.css"
 const Header = () => {
     return (
         <div>
-            <h2>Navbar</h2>
             <nav>
                 <Link to="/">Home</Link>
                 <Link to="/users">Users</Link>
